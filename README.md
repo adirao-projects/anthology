@@ -1,2 +1,2 @@
-# yarn
+# Yarn
 May be renamed to anthology or something. Just a collection of short stories I may or may not write...
